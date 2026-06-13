@@ -66,5 +66,4 @@ Through this project, I developed practical experience in:
 
 Sama Khraim
 
-GitHub:
-https://github.com/samakhraim/titanic
+
